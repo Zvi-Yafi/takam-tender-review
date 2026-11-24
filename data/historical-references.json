@@ -1,0 +1,18 @@
+[
+  {
+    "number": "16.2.2",
+    "name": "פרויקט נימבוס – אספקת שירותי ענן ציבורי",
+    "evidenceFrom": "2022-06-02",
+    "evidenceThrough": "2022-11-01",
+    "sources": [
+      {
+        "label": "מכרז מפ״י מ־02.06.2022, סעיף 4.1.2",
+        "url": "https://www.gov.il/BlobFolder/rfp/7-2022/he/tenders_7-2022_tenders_7-2022_20220602_3D_ModernNCDB_Tender.pdf"
+      },
+      {
+        "label": "אסטרטגיית הענן הממשלתית, נובמבר 2022, סעיף 5.2.4",
+        "url": "https://www.gov.il/BlobFolder/news/cloud-first/en/%D7%90%D7%A1%D7%98%D7%A8%D7%98%D7%92%D7%99%D7%99%D7%AA%20%D7%94%D7%A2%D7%A0%D7%9F%20%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%D7%99%D7%AA%20.pdf#page=27"
+      }
+    ]
+  }
+]

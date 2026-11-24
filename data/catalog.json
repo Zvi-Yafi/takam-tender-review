@@ -1,0 +1,54 @@
+{
+  "collectedOn": "2026-11-24",
+  "instructions": [
+    {
+      "number": "1.4.2",
+      "name": "בדיקת חשבון",
+      "url": "https://takam.mof.gov.il/document/H.1.4.2",
+      "versions": [
+        {
+          "edition": 3,
+          "from": "2022-03-01",
+          "to": null
+        },
+        {
+          "edition": 2,
+          "from": "2016-05-23",
+          "to": "2022-02-28"
+        }
+      ]
+    },
+    {
+      "number": "1.4.3",
+      "name": "מועדי תשלום",
+      "url": "https://takam.mof.gov.il/document/H.1.4.3",
+      "versions": [
+        {
+          "edition": 6,
+          "from": "2024-09-19",
+          "to": null
+        },
+        {
+          "edition": 5,
+          "from": "2021-05-09",
+          "to": "2024-09-18"
+        },
+        {
+          "edition": 4,
+          "from": "2020-09-22",
+          "to": "2021-05-08"
+        },
+        {
+          "edition": 3,
+          "from": "2020-07-07",
+          "to": "2020-09-21"
+        },
+        {
+          "edition": 2,
+          "from": "2017-07-25",
+          "to": "2020-07-06"
+        }
+      ]
+    }
+  ]
+}

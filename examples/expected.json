@@ -1,0 +1,48 @@
+{
+  "demo": {
+    "file": "eshel-demo.docx",
+    "publication": "2025-08-21",
+    "occurrences": [
+      {"section": "5.3", "number": "1.4.3", "draftStart": "2021-05-09", "edition": 6, "result": "review"},
+      {"section": "6.1", "number": "1.4.2", "edition": 3, "result": "information"},
+      {"section": "6.2", "titleOnly": "בדיקת חשבון", "result": "unverifiable"},
+      {"section": "6.3", "number": "7.4.1", "result": "unverifiable"},
+      {"table": 1, "row": 2, "column": 2, "number": "1.4.3", "edition": 6, "result": "information"}
+    ],
+    "internalOnlySection": "6.4",
+    "historical": {"publication": "2024-01-25", "section": "5.3", "edition": 5, "result": "match"}
+  },
+  "originals": [
+    {
+      "file": "cbs-tender-05-2024.docx",
+      "sha256": "0245bb9faa12cec32df1fdc27cd085467aa8d8f09387f183589312af1983037e",
+      "publication": "2024-07-21",
+      "scope": "כל ההפניות המפורשות והממוספרות להוראות תכ״ם בגוף החוברת",
+      "occurrences": [
+        {"number": "7.12.5", "contains": "על הזוכה להירשם כספק", "result": "unverifiable"},
+        {"number": "14.4.1", "contains": "ערבות הביצוע תהיה ערבות דיגיטאלית", "result": "unverifiable"},
+        {"number": "7.3.3", "contains": "הערבות תונפק", "result": "unverifiable"},
+        {"number": "7.3.3", "contains": "גוף סטטוטורי", "result": "unverifiable"}
+      ]
+    },
+    {
+      "file": "fuel-tender-07-2021.docx",
+      "sha256": "deda63bb542c88f7b04200c18093bea4a374e9545cf2c1032074aa4cecfaa8fd",
+      "publication": "2022-02-02",
+      "scope": "הפניות בגוף המכרז לשתי ההוראות שבמדגם",
+      "occurrences": [
+        {"number": "1.4.3", "contains": "בכל שלושת הסלים", "edition": 5, "result": "information"}
+      ]
+    },
+    {
+      "file": "../מקורות רשמיים/takam-1.4.3-edition-6.docx",
+      "publication": "2025-08-21",
+      "scope": "הפניות בגוף ההוראה להוראת בדיקת חשבון",
+      "occurrences": [
+        {"number": "1.4.2", "startsWith": "הוראת תכ", "edition": 3, "result": "information"},
+        {"number": "1.4.2", "startsWith": "חשבון -", "edition": 3, "result": "information"},
+        {"number": "1.4.2", "startsWith": "המצאת החשבון -", "edition": 3, "result": "information"}
+      ]
+    }
+  ]
+}
